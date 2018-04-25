@@ -1,0 +1,111 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Git.Settings">
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JSLintConfiguration" json="true">
+        <option browser="true" />
+        <option es6="true" />
+        <option maxerr="50" />
+        <option node="true" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <bower-package value="/usr/local/lib/node_modules/bower" />
+        <bower.json value="$USER_HOME$/bower.json" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="bodhicougar" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="javascript.nodejs.core.library.configured.version" value="9.3.0" />
+        <property name="js.phonegap.settings.workdir" value="$USER_HOME$/myApp" />
+        <property name="last_opened_file_path" value="$USER_HOME$/jsanddb" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.path.for.package.prettier" value="/usr/local/bin/node" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.prettier" value="" />
+        <property name="node.js.selected.package.standard" value="" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.selected.package.tslint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="settings.github" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="enableServiceForProjectsWithoutConfig" value="true" />
+        <option name="recompileOnChanges" value="true" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="$USER_HOME$/vagrant_getting_started" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
